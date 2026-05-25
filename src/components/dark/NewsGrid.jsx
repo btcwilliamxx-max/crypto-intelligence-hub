@@ -28,7 +28,7 @@ function NewsGrid({ news, loading }) {
       <div className="news-list">
         {news.map((item, index) => (
           <div 
-            key={item.id} 
+            key={`${item.id}-${index}`} 
             className="news-list-item"
             style={{ animationDelay: `${index * 0.05}s` }}
           >

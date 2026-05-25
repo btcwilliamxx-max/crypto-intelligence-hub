@@ -7,19 +7,25 @@
   --text-primary: #e6edf3;
   --text-secondary: #8b949e;
   --text-tertiary: #6e7681;
+  --accent-color: #58a6ff;
+  --accent-hover: #79c0ff;
   --accent-blue: #58a6ff;
   --accent-green: #3fb950;
   --accent-orange: #d29922;
   --accent-red: #f85149;
   --accent-purple: #a371f7;
   --accent-pink: #db61a2;
-  --accent-hover: #79c0ff;
 
   --color-crypto: #f7931a;
   --color-us-stock: #2563eb;
+  --color-ai: #7c3aed;
   --color-ai-tech: #a855f7;
+  --color-politics: #dc2626;
   --color-trump-politics: #dc2626;
   --color-x-trending: #ea580c;
+
+  --tag-bg: #21262d;
+  --tag-text: #8b949e;
 
   --font-sans: 'Inter', 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
 
