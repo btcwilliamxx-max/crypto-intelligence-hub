@@ -1,0 +1,792 @@
+{
+  "lastUpdate": "2026-05-24T17:15:08.957Z",
+  "total": 48,
+  "news": [
+    {
+      "id": "newsdata_1779642907323_0",
+      "title": "OpenAI 推出新一代 AI 模型，性能大幅提升",
+      "titleZh": "OpenAI 推出新一代 AI 模型，性能大幅提升",
+      "url": "https://newsdata.io/article/0",
+      "source": "NewsData.io",
+      "time": "2026-05-24T17:15:07.323Z",
+      "summary": "关于OpenAI 推出新一代 AI 模型，性能大幅提升的详细内容报道。该新闻涉及AI、OpenAI等领域的重要发展。",
+      "summaryZh": "关于OpenAI 推出新一代 AI 模型，性能大幅提升的详细内容报道。该新闻涉及AI、OpenAI等领域的重要发展。",
+      "category": "ai-tech",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "recommendation": "大模型能力持续突破，建议关注其实际应用落地情况",
+      "score": 90
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly93",
+      "title": "Dow Jones Futures: Trump Says Iran Deal Near, Talks Continue; Tesla, AI Stocks Near Buy Points",
+      "titleZh": "Dow Jones Futures: Trump Says Iran Deal Near, Talks Continue; Tesla, AI Stocks Near Buy Points",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T17:02:44.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "us-stock",
+      "tags": [
+        "美股",
+        "AI"
+      ],
+      "recommendation": "美联储政策走向是当前市场的核心变量，需持续跟踪",
+      "score": 85
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly9m",
+      "title": "Dow Jones Futures: Trump Says Iran Deal Near, Talks Continue; Tesla, AI Stocks Near Buy Points",
+      "titleZh": "Dow Jones Futures: Trump Says Iran Deal Near, Talks Continue; Tesla, AI Stocks Near Buy Points",
+      "url": "https://finance.yahoo.com/m/879072fd-2d18-3074-b2ec-2e92c37a571e/dow-jones-futures%3A-trump-says.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T17:02:44.000Z",
+      "summary": "President Donald Trump said an interim agreement is close that would open the Strait of Hormuz, but negotiations continue.",
+      "summaryZh": "President Donald Trump said an interim agreement is close that would open the Strait of Hormuz, but negotiations continue.",
+      "category": "us-stock",
+      "tags": [
+        "美股",
+        "AI"
+      ],
+      "recommendation": "美联储政策走向是当前市场的核心变量，需持续跟踪",
+      "score": 85
+    },
+    {
+      "id": "hn_48258995",
+      "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+      "titleZh": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+      "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+      "source": "HackerNews",
+      "time": "2026-05-24T17:00:46.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "AI"
+      ],
+      "recommendation": "AI 技术迭代加速，该进展可能重塑行业竞争格局",
+      "score": 85
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly9m",
+      "title": "This Director Sale Isn't the Story — IPG Photonics Is Quietly Retooling",
+      "titleZh": "This Director Sale Isn't the Story — IPG Photonics Is Quietly Retooling",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/director-sale-isnt-story-ipg-170034897.html",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T17:00:34.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "us-stock",
+      "tags": [
+        "财经"
+      ],
+      "recommendation": "该消息反映了经济基本面的重要变化，对投资决策有参考意义",
+      "score": 80
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly93",
+      "title": "Why Hive Digital Technologies Stock Skyrocketed This Week",
+      "titleZh": "Why Hive Digital Technologies 股票 Skyrocketed This Week",
+      "url": "https://www.fool.com/investing/2026/05/24/why-hive-digital-technologies-stock-skyrocketed-th/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T16:58:18.000Z",
+      "summary": "Hive Digital stock just had a massive week on the market.",
+      "summaryZh": "Hive Digital 股票 just had a massive week on the 市场.",
+      "category": "us-stock",
+      "tags": [
+        "美股",
+        "AI"
+      ],
+      "recommendation": "财报季关键信息，可能影响相关板块整体估值水平",
+      "score": 80
+    },
+    {
+      "id": "hn_48258736",
+      "title": "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop",
+      "titleZh": "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop",
+      "url": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
+      "source": "HackerNews",
+      "time": "2026-05-24T16:36:26.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "AI"
+      ],
+      "recommendation": "技术突破往往伴随投资机会，建议深入研究其技术细节",
+      "score": 85
+    },
+    {
+      "id": "hn_48258684",
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "titleZh": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "source": "HackerNews",
+      "time": "2026-05-24T16:31:29.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "AI"
+      ],
+      "recommendation": "AI 技术迭代加速，该进展可能重塑行业竞争格局",
+      "score": 85
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly93",
+      "title": "Is the stock market open or closed on Memorial Day 2026? See schedule",
+      "titleZh": "Is the 股票 市场 open or closed on Memorial Day 2026? See schedule",
+      "url": "https://www.usatoday.com/story/money/investing/2026/05/24/stock-market-open-closed-memorial-day-2026/90211857007/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T16:00:23.000Z",
+      "summary": "Here's what you need to know about the stock market and whether it is open or closed on Memorial Day this year.",
+      "summaryZh": "Here's what you need to know about the 股票 市场 and whether it is open or closed on Memorial Day this year.",
+      "category": "us-stock",
+      "tags": [
+        "美股"
+      ],
+      "recommendation": "财报季关键信息，可能影响相关板块整体估值水平",
+      "score": 70
+    },
+    {
+      "id": "hn_48258254",
+      "title": "Ruby for Good",
+      "titleZh": "Ruby for Good",
+      "url": "https://ti.to/codeforgood/rubyforgood",
+      "source": "HackerNews",
+      "time": "2026-05-24T15:49:19.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "技术"
+      ],
+      "recommendation": "大模型能力持续突破，建议关注其实际应用落地情况",
+      "score": 70
+    },
+    {
+      "id": "hn_48258236",
+      "title": "When (if ever) it's appropriate to make jokes before the US Supreme Court",
+      "titleZh": "When (if ever) it's appropriate to make jokes before the US Supreme Court",
+      "url": "https://www.scotusblog.com/2026/05/when-if-ever-its-appropriate-to-make-jokes-take-selfies-or-curse-before-the-court/",
+      "source": "HackerNews",
+      "time": "2026-05-24T15:47:34.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "技术"
+      ],
+      "recommendation": "大模型能力持续突破，建议关注其实际应用落地情况",
+      "score": 70
+    },
+    {
+      "id": "hn_48258194",
+      "title": "Usborne 1980s Computer Books",
+      "titleZh": "Usborne 1980s Computer Books",
+      "url": "https://usborne.com/us/books/computer-and-coding-books",
+      "source": "HackerNews",
+      "time": "2026-05-24T15:43:00.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "技术"
+      ],
+      "recommendation": "AI 技术迭代加速，该进展可能重塑行业竞争格局",
+      "score": 70
+    },
+    {
+      "id": "hn_48257980",
+      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+      "titleZh": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+      "source": "HackerNews",
+      "time": "2026-05-24T15:21:28.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "AI",
+        "Tech"
+      ],
+      "recommendation": "AI 技术迭代加速，该进展可能重塑行业竞争格局",
+      "score": 75
+    },
+    {
+      "id": "newsdata_1779642907323_1",
+      "title": "比特币ETF资金流入创历史新高",
+      "titleZh": "比特币ETF资金流入创历史新高",
+      "url": "https://newsdata.io/article/1",
+      "source": "NewsData.io",
+      "time": "2026-05-24T15:15:07.323Z",
+      "summary": "关于比特币ETF资金流入创历史新高的详细内容报道。该新闻涉及比特币、ETF等领域的重要发展。",
+      "summaryZh": "关于比特币ETF资金流入创历史新高的详细内容报道。该新闻涉及比特币、ETF等领域的重要发展。",
+      "category": "crypto",
+      "tags": [
+        "比特币",
+        "ETF"
+      ],
+      "recommendation": "机构动向往往是市场转向的先行指标，该消息值得深入研究",
+      "score": 75
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly9m",
+      "title": "Michael Burry says the SEC's plan to trade stocks like crypto could create a nightmare for investors",
+      "titleZh": "Michael Burry says the SEC's plan to trade stocks like 加密 could create a nightmare for investors",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/michael-burry-says-secs-plan-143000315.html",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T14:30:00.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "us-stock",
+      "tags": [
+        "美股",
+        "加密货币"
+      ],
+      "recommendation": "宏观数据对市场走向有重要参考价值，建议结合利率预期综合分析",
+      "score": 75
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly9m",
+      "title": "Gavin Newsom's office urges drivers to avoid branded gas meant to 'rip you off' — but studies show it's worth the price",
+      "titleZh": "Gavin Newsom's office urges drivers to avoid branded gas meant to 'rip you off' — but studies show it's worth the 价格",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/gavin-newsoms-office-urges-drivers-141500426.html",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T14:15:00.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "us-stock",
+      "tags": [
+        "财经"
+      ],
+      "recommendation": "该消息反映了经济基本面的重要变化，对投资决策有参考意义",
+      "score": 70
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly9m",
+      "title": "New Fed Chair Kevin Warsh suggests he may take an Alan Greenspan-style approach at the central bank",
+      "titleZh": "新 Fed Chair Kevin Warsh suggests he may take an Alan Greenspan-style approach at the central bank",
+      "url": "https://finance.yahoo.com/economy/policy/article/new-fed-chair-kevin-warsh-suggests-he-may-take-an-alan-greenspan-style-approach-at-the-central-bank-135046787.html",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T13:50:46.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "us-stock",
+      "tags": [
+        "宏观经济",
+        "AI"
+      ],
+      "recommendation": "该消息反映了经济基本面的重要变化，对投资决策有参考意义",
+      "score": 80
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly9m",
+      "title": "Block (XYZ) Announces The Hat Selects Square as Unified Commerce Platform",
+      "titleZh": "Block (XYZ) Announces The Hat Selects Square as Unified Commerce Platform",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/block-xyz-announces-hat-selects-133128919.html",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T13:31:28.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "us-stock",
+      "tags": [
+        "财经"
+      ],
+      "recommendation": "财报季关键信息，可能影响相关板块整体估值水平",
+      "score": 70
+    },
+    {
+      "id": "newsdata_1779642907323_2",
+      "title": "美联储利率决议符合预期",
+      "titleZh": "美联储利率决议符合预期",
+      "url": "https://newsdata.io/article/2",
+      "source": "NewsData.io",
+      "time": "2026-05-24T13:15:07.323Z",
+      "summary": "关于美联储利率决议符合预期的详细内容报道。该新闻涉及美联储、宏观经济等领域的重要发展。",
+      "summaryZh": "关于美联储利率决议符合预期的详细内容报道。该新闻涉及美联储、宏观经济等领域的重要发展。",
+      "category": "us-stock",
+      "tags": [
+        "美联储",
+        "宏观经济"
+      ],
+      "recommendation": "该消息反映了经济基本面的重要变化，对投资决策有参考意义",
+      "score": 70
+    },
+    {
+      "id": "hn_48256953",
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "titleZh": "DeepSeek reasonix, DeepSeek native coding agent with 高 caching and 低 cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "source": "HackerNews",
+      "time": "2026-05-24T13:02:06.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "技术"
+      ],
+      "recommendation": "AI 产品化进程加快，商业模式验证值得关注",
+      "score": 70
+    },
+    {
+      "id": "hn_48256912",
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "titleZh": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "source": "HackerNews",
+      "time": "2026-05-24T12:55:53.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "AI",
+        "Tech"
+      ],
+      "recommendation": "大模型能力持续突破，建议关注其实际应用落地情况",
+      "score": 75
+    },
+    {
+      "id": "hn_48256597",
+      "title": "Childhood Computing",
+      "titleZh": "Childhood Computing",
+      "url": "https://susam.net/childhood-computing.html",
+      "source": "HackerNews",
+      "time": "2026-05-24T12:07:34.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "技术"
+      ],
+      "recommendation": "技术突破往往伴随投资机会，建议深入研究其技术细节",
+      "score": 70
+    },
+    {
+      "id": "hn_48256565",
+      "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
+      "titleZh": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
+      "url": "https://apple.github.io/ml-pico/",
+      "source": "HackerNews",
+      "time": "2026-05-24T12:01:24.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "Tech"
+      ],
+      "recommendation": "技术突破往往伴随投资机会，建议深入研究其技术细节",
+      "score": 70
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly9m",
+      "title": "Stocks and earnings surge, and Iran deal may be imminent: What to watch this week",
+      "titleZh": "Stocks and earnings surge, and Iran deal may be imminent: What to watch this week",
+      "url": "https://finance.yahoo.com/news/stocks-and-earnings-surge-and-iran-deal-may-be-imminent-what-to-watch-this-week-114338066.html",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T11:43:38.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "us-stock",
+      "tags": [
+        "美股"
+      ],
+      "recommendation": "财报季关键信息，可能影响相关板块整体估值水平",
+      "score": 70
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly9m",
+      "title": "Stocks and earnings surge, and Iran deal may be imminent: What to watch this week",
+      "titleZh": "Stocks and earnings surge, and Iran deal may be imminent: What to watch this week",
+      "url": "https://finance.yahoo.com/news/stocks-and-earnings-surge-and-iran-deal-may-be-imminent-what-to-watch-this-week-114338066.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T11:43:38.000Z",
+      "summary": "With earnings season done, the stock market moves into digestion and distraction territory as investors integrate the whole of corporate data with extracurricular corporate news, economic releases, the bond market's not-so-subtle signals, and whatever distractions, surprises, and unknown unknowns emerge.",
+      "summaryZh": "With earnings season done, the 股票 市场 moves into digestion and distraction territory as investors integrate the whole of corporate data with extracurricular corporate 新闻, economic releases, the bond 市场's not-so-subtle signals, and whatever distractions, surprises, and unknown unknowns emerge.",
+      "category": "us-stock",
+      "tags": [
+        "美股"
+      ],
+      "recommendation": "财报季关键信息，可能影响相关板块整体估值水平",
+      "score": 70
+    },
+    {
+      "id": "hn_48256475",
+      "title": "Mastering Dyalog APL",
+      "titleZh": "Mastering Dyalog APL",
+      "url": "https://mastering.dyalog.com/README.html",
+      "source": "HackerNews",
+      "time": "2026-05-24T11:42:15.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "技术"
+      ],
+      "recommendation": "AI 技术迭代加速，该进展可能重塑行业竞争格局",
+      "score": 70
+    },
+    {
+      "id": "newsdata_1779642907323_3",
+      "title": "欧盟加强AI监管新法案讨论中",
+      "titleZh": "欧盟加强AI监管新法案讨论中",
+      "url": "https://newsdata.io/article/3",
+      "source": "NewsData.io",
+      "time": "2026-05-24T11:15:07.323Z",
+      "summary": "关于欧盟加强AI监管新法案讨论中的详细内容报道。该新闻涉及监管、欧盟等领域的重要发展。",
+      "summaryZh": "关于欧盟加强AI监管新法案讨论中的详细内容报道。该新闻涉及监管、欧盟等领域的重要发展。",
+      "category": "trump-politics",
+      "tags": [
+        "监管",
+        "欧盟"
+      ],
+      "recommendation": "政策面不确定性增加，建议保持谨慎态度",
+      "score": 65
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly93",
+      "title": "\"Trumpflation\" Is Roiling Wall Street -- and It May Not Be a Short-Term Issue as the President Suggests",
+      "titleZh": "\"Trumpflation\" Is Roiling Wall Street -- and It May Not Be a Short-Term Issue as the President Suggests",
+      "url": "https://www.fool.com/investing/2026/05/24/trumpflation-roiling-wall-street-not-short-term/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T10:56:00.000Z",
+      "summary": "Two concurrent price shocks, which trace back to decisions made by President Donald Trump, threaten to upend a seemingly unstoppable stock market.",
+      "summaryZh": "Two concurrent 价格 shocks, which trace back to decisions made by President Donald Trump, threaten to upend a seemingly unstoppable 股票 市场.",
+      "category": "us-stock",
+      "tags": [
+        "财经"
+      ],
+      "recommendation": "该消息反映了经济基本面的重要变化，对投资决策有参考意义",
+      "score": 60
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly93",
+      "title": "Why Intuit Stock Plummeted This Week",
+      "titleZh": "Why Intuit 股票 Plummeted This Week",
+      "url": "https://www.fool.com/investing/2026/05/24/why-intuit-stock-plummeted-this-week/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T10:50:00.000Z",
+      "summary": "Intuit served up a beat-and-raise quarter, but its stock still sold off.",
+      "summaryZh": "Intuit served up a beat-and-raise quarter, but its 股票 still sold off.",
+      "category": "us-stock",
+      "tags": [
+        "美股"
+      ],
+      "recommendation": "宏观数据对市场走向有重要参考价值，建议结合利率预期综合分析",
+      "score": 60
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly93",
+      "title": "Why Poet Technologies Stock Plummeted This Week",
+      "titleZh": "Why Poet Technologies 股票 Plummeted This Week",
+      "url": "https://www.fool.com/investing/2026/05/24/why-poet-technologies-stock-plummeted-this-week/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T10:35:00.000Z",
+      "summary": "Despite recent sell-offs, Poet Technologies stock is still up roughly 130% this year.",
+      "summaryZh": "Despite recent sell-offs, Poet Technologies 股票 is still up roughly 130% this year.",
+      "category": "us-stock",
+      "tags": [
+        "美股",
+        "AI"
+      ],
+      "recommendation": "该消息反映了经济基本面的重要变化，对投资决策有参考意义",
+      "score": 60
+    },
+    {
+      "id": "newsdata_1779642907323_4",
+      "title": "谷歌发布新版AI助手",
+      "titleZh": "谷歌发布新版AI助手",
+      "url": "https://newsdata.io/article/4",
+      "source": "NewsData.io",
+      "time": "2026-05-24T09:15:07.323Z",
+      "summary": "关于谷歌发布新版AI助手的详细内容报道。该新闻涉及谷歌、AI等领域的重要发展。",
+      "summaryZh": "关于谷歌发布新版AI助手的详细内容报道。该新闻涉及谷歌、AI等领域的重要发展。",
+      "category": "ai-tech",
+      "tags": [
+        "谷歌",
+        "AI"
+      ],
+      "recommendation": "AI 产品化进程加快，商业模式验证值得关注",
+      "score": 65
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly93",
+      "title": "Prediction: It's Only a Matter of Time Before President Donald Trump and Fed Chair Kevin Warsh Are Butting Heads -- and Wall Street May Be the Big Loser",
+      "titleZh": "Prediction: It's Only a Matter of Time Before President Donald Trump and Fed Chair Kevin Warsh Are Butting Heads -- and Wall Street May Be the Big Loser",
+      "url": "https://www.fool.com/investing/2026/05/24/prediction-trump-fed-chair-warsh-feuding-wall-st/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "time": "2026-05-24T08:26:00.000Z",
+      "summary": "Economic dynamics and the new Fed chair's strong views on monetary policy have Warsh and Trump on a collision course.",
+      "summaryZh": "Economic dynamics and the 新 Fed chair's strong views on monetary policy have Warsh and Trump on a collision course.",
+      "category": "us-stock",
+      "tags": [
+        "宏观经济",
+        "AI"
+      ],
+      "recommendation": "宏观数据对市场走向有重要参考价值，建议结合利率预期综合分析",
+      "score": 70
+    },
+    {
+      "id": "newsdata_1779642907323_5",
+      "title": "以太坊Gas费用创历史新低",
+      "titleZh": "以太坊Gas费用创历史新低",
+      "url": "https://newsdata.io/article/5",
+      "source": "NewsData.io",
+      "time": "2026-05-24T07:15:07.323Z",
+      "summary": "关于以太坊Gas费用创历史新低的详细内容报道。该新闻涉及以太坊、DeFi等领域的重要发展。",
+      "summaryZh": "关于以太坊Gas费用创历史新低的详细内容报道。该新闻涉及以太坊、DeFi等领域的重要发展。",
+      "category": "crypto",
+      "tags": [
+        "以太坊",
+        "DeFi"
+      ],
+      "recommendation": "该消息可能影响短期市场情绪，建议结合技术面综合判断",
+      "score": 60
+    },
+    {
+      "id": "newsdata_1779642907323_6",
+      "title": "美国科技股财报季表现强劲",
+      "titleZh": "美国科技股财报季表现强劲",
+      "url": "https://newsdata.io/article/6",
+      "source": "NewsData.io",
+      "time": "2026-05-24T05:15:07.323Z",
+      "summary": "关于美国科技股财报季表现强劲的详细内容报道。该新闻涉及美股、财报等领域的重要发展。",
+      "summaryZh": "关于美国科技股财报季表现强劲的详细内容报道。该新闻涉及美股、财报等领域的重要发展。",
+      "category": "us-stock",
+      "tags": [
+        "美股",
+        "财报"
+      ],
+      "recommendation": "宏观数据对市场走向有重要参考价值，建议结合利率预期综合分析",
+      "score": 60
+    },
+    {
+      "id": "newsdata_1779642907323_7",
+      "title": "苹果发布新品引发市场热议",
+      "titleZh": "苹果发布新品引发市场热议",
+      "url": "https://newsdata.io/article/7",
+      "source": "NewsData.io",
+      "time": "2026-05-24T03:15:07.323Z",
+      "summary": "关于苹果发布新品引发市场热议的详细内容报道。该新闻涉及苹果、科技等领域的重要发展。",
+      "summaryZh": "关于苹果发布新品引发市场热议的详细内容报道。该新闻涉及苹果、科技等领域的重要发展。",
+      "category": "x-trending",
+      "tags": [
+        "苹果",
+        "科技"
+      ],
+      "recommendation": "社区热度反映了市场关注度，可作为选股参考维度之一",
+      "score": 60
+    },
+    {
+      "id": "hn_48253386",
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "titleZh": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "source": "HackerNews",
+      "time": "2026-05-24T01:21:13.000Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-the-story-of-early-dos-development&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-...</a>",
+      "summaryZh": "<a href=\"https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-the-story-of-early-dos-development&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-...</a>",
+      "category": "ai-tech",
+      "tags": [
+        "Tech"
+      ],
+      "recommendation": "AI 技术迭代加速，该进展可能重塑行业竞争格局",
+      "score": 60
+    },
+    {
+      "id": "hn_48253186",
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "titleZh": "Scammers are abusing an internal Microsoft account to send spam links",
+      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "source": "HackerNews",
+      "time": "2026-05-24T00:51:32.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "技术"
+      ],
+      "recommendation": "大模型能力持续突破，建议关注其实际应用落地情况",
+      "score": 60
+    },
+    {
+      "id": "hn_48253060",
+      "title": "Wake up! 16b",
+      "titleZh": "Wake up! 16b",
+      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "source": "HackerNews",
+      "time": "2026-05-24T00:30:50.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "技术"
+      ],
+      "recommendation": "AI 技术迭代加速，该进展可能重塑行业竞争格局",
+      "score": 60
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly9m",
+      "title": "Another pet supplies store operator files Chapter 11 bankruptcy",
+      "titleZh": "Another pet supplies store operator files Chapter 11 bankruptcy",
+      "url": "https://finance.yahoo.com/economy/articles/another-pet-supplies-store-operator-203300293.html",
+      "source": "Yahoo Finance",
+      "time": "2026-05-23T20:33:00.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "us-stock",
+      "tags": [
+        "财经"
+      ],
+      "recommendation": "该消息反映了经济基本面的重要变化，对投资决策有参考意义",
+      "score": 60
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly8y",
+      "title": "Warren Buffett Bought Leveraged Investor’s Berkshire Shares for $40 in the 1973 Crash. They’re Now Worth $700,000",
+      "titleZh": "Warren Buffett Bought Leveraged Investor’s Berkshire Shares for $40 in the 1973 Crash. They’re Now Worth $700,000",
+      "url": "https://247wallst.com/investing/2026/05/23/warren-buffett-bought-leveraged-investors-berkshire-shares-for-40-in-the-1973-crash-theyre-now-worth-700000/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "time": "2026-05-23T12:02:27.000Z",
+      "summary": "Although the benchmark S&P 500 has clawed back to record territory and the VIX has settled into a sleepy 16.7 reading, Wall Street’s memory is shorter than its history would suggest. The Dow and the Nasdaq are both riding a heavy year-over-year tailwind, with the S&P 500 up 28% over the past twelve months. The ... Warren Buffett Bought Leveraged Investor’s Berkshire Shares for $40 in the 1973 Crash. They’re Now Worth $700,000",
+      "summaryZh": "Although the benchmark S&P 500 has clawed back to record territory and the VIX has settled into a sleepy 16.7 reading, Wall Street’s memory is shorter than its history would suggest. The Dow and the Nasdaq are both riding a heavy year-over-year tailwind, with the S&P 500 up 28% over the past twelve months. The ... Warren Buffett Bought Leveraged Investor’s Berkshire Shares for $40 in the 1973 Crash. They’re Now Worth $700,000",
+      "category": "us-stock",
+      "tags": [
+        "财经"
+      ],
+      "recommendation": "财报季关键信息，可能影响相关板块整体估值水平",
+      "score": 40
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly9m",
+      "title": "Jamie Dimon has bad news for JPMorgan bankers",
+      "titleZh": "Jamie Dimon has bad 新闻 for JPMorgan bankers",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jamie-dimon-bad-news-jpmorgan-110300291.html",
+      "source": "Yahoo Finance",
+      "time": "2026-05-23T11:03:00.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "us-stock",
+      "tags": [
+        "财经"
+      ],
+      "recommendation": "财报季关键信息，可能影响相关板块整体估值水平",
+      "score": 40
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly93",
+      "title": "Opinion: President Donald Trump Has Set New Fed Chair Kevin Warsh Up for Failure -- and Wall Street Will End Up Paying the Price",
+      "titleZh": "Opinion: President Donald Trump Has Set 新 Fed Chair Kevin Warsh Up for Failure -- and Wall Street Will End Up Paying the 价格",
+      "url": "https://www.fool.com/investing/2026/05/23/trump-set-fed-chair-kevin-warsh-up-for-failure/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "time": "2026-05-23T10:56:00.000Z",
+      "summary": "The new head of the head is taking the helm at one of the most challenging times in modern history.",
+      "summaryZh": "The 新 head of the head is taking the helm at one of the most challenging times in modern history.",
+      "category": "us-stock",
+      "tags": [
+        "宏观经济",
+        "AI"
+      ],
+      "recommendation": "宏观数据对市场走向有重要参考价值，建议结合利率预期综合分析",
+      "score": 50
+    },
+    {
+      "id": "hn_48233398",
+      "title": "I keep bouncing off the Scheme language",
+      "titleZh": "I keep bouncing off the Scheme language",
+      "url": "https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/",
+      "source": "HackerNews",
+      "time": "2026-05-22T08:32:39.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "技术"
+      ],
+      "recommendation": "技术突破往往伴随投资机会，建议深入研究其技术细节",
+      "score": 40
+    },
+    {
+      "id": "hn_48223997",
+      "title": "I spent 50 hours drawing a line graph",
+      "titleZh": "I spent 50 hours drawing a line graph",
+      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+      "source": "HackerNews",
+      "time": "2026-05-21T15:05:28.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "技术"
+      ],
+      "recommendation": "大模型能力持续突破，建议关注其实际应用落地情况",
+      "score": 40
+    },
+    {
+      "id": "hn_48211418",
+      "title": "Curly braces: An evolution of Unix and C",
+      "titleZh": "Curly braces: An evolution of Unix and C",
+      "url": "https://thalia.dev/blog/unix-braces/",
+      "source": "HackerNews",
+      "time": "2026-05-20T17:49:48.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "技术"
+      ],
+      "recommendation": "AI 技术迭代加速，该进展可能重塑行业竞争格局",
+      "score": 40
+    },
+    {
+      "id": "hn_48210937",
+      "title": "Silk: Open-source cooperative fiber scheduler",
+      "titleZh": "Silk: Open-source cooperative fiber scheduler",
+      "url": "https://github.com/ClickHouse/silk",
+      "source": "HackerNews",
+      "time": "2026-05-20T17:15:40.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "技术"
+      ],
+      "recommendation": "大模型能力持续突破，建议关注其实际应用落地情况",
+      "score": 40
+    },
+    {
+      "id": "hn_48208233",
+      "title": "Swap tables, flash-friendly swap, swap_ops, and more",
+      "titleZh": "Swap tables, flash-friendly swap, swap_ops, and more",
+      "url": "https://lwn.net/SubscriberLink/1072657/394b87abd7cc215e/",
+      "source": "HackerNews",
+      "time": "2026-05-20T14:16:34.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "ai-tech",
+      "tags": [
+        "技术"
+      ],
+      "recommendation": "AI 技术迭代加速，该进展可能重塑行业竞争格局",
+      "score": 40
+    },
+    {
+      "id": "yahoo_aHR0cHM6Ly9m",
+      "title": "Trump traded over $50 million in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla",
+      "titleZh": "Trump traded over $50 million in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla",
+      "url": "https://finance.yahoo.com/markets/stocks/article/trump-traded-over-50-million-in-magnificent-7-stocks-last-quarter-loading-up-on-apple-and-google-and-selling-tesla-100000562.html",
+      "source": "Yahoo Finance",
+      "time": "2026-05-19T10:00:00.000Z",
+      "summary": "",
+      "summaryZh": "",
+      "category": "us-stock",
+      "tags": [
+        "美股"
+      ],
+      "recommendation": "美联储政策走向是当前市场的核心变量，需持续跟踪",
+      "score": 40
+    }
+  ]
+}

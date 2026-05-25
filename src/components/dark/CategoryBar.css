@@ -1,0 +1,67 @@
+.category-bar {
+  padding: 16px 0 20px;
+  border-bottom: 1px solid var(--border-color);
+  margin-bottom: 20px;
+}
+
+.category-scroll {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  padding-bottom: 2px;
+}
+
+.category-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.category-item {
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 500;
+  white-space: nowrap;
+  background: transparent;
+  color: var(--text-secondary);
+  border: 1px solid var(--border-color);
+  transition: all 0.15s ease;
+  flex-shrink: 0;
+}
+
+.category-item:hover {
+  border-color: var(--text-tertiary);
+  color: var(--text-primary);
+}
+
+.category-item.active {
+  background: var(--text-primary);
+  color: white;
+  border-color: var(--text-primary);
+}
+
+.category-item[data-category="crypto"].active {
+  background: var(--color-crypto);
+  border-color: var(--color-crypto);
+}
+
+.category-item[data-category="us-stock"].active {
+  background: var(--color-us-stock);
+  border-color: var(--color-us-stock);
+}
+
+.category-item[data-category="ai-tech"].active {
+  background: var(--color-ai);
+  border-color: var(--color-ai);
+}
+
+.category-item[data-category="trump-politics"].active {
+  background: var(--color-politics);
+  border-color: var(--color-politics);
+}
+
+.category-item[data-category="x-trending"].active {
+  background: var(--color-x-trending);
+  border-color: var(--color-x-trending);
+}
